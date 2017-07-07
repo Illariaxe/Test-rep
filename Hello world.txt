@@ -1,4 +1,3 @@
 print("Hello world!");
 print("Hi, user!");
-print("Good Bye!");
 print("Hi, master!");
