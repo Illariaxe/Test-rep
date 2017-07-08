@@ -6,4 +6,3 @@ print("Bye, people!");
 print("Bye, world!");
 print("End of three lesson!");
 print("Midnight, well!");
-print("Test my name at Git!");
