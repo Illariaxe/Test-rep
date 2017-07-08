@@ -5,4 +5,5 @@ print("Yo, Japan!");
 print("Bye, people!");
 print("Bye, world!");
 print("End of three lesson!");
-print("Midnight, well!");
+print("Commands completed!");
+print("If you want - do it!");
