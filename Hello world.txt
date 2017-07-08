@@ -4,3 +4,4 @@ print("Hi, master!");
 print("Yo, Japan!");
 print("Bye, people!");
 print("Bye, world!");
+print("Add new print.");
