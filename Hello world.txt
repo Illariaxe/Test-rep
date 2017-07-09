@@ -7,3 +7,4 @@ print("Bye, world!");
 print("End of three lesson!");
 print("Commands completed!");
 print("If you want - do it!");
+print("Sakura");
