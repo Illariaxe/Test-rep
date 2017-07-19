@@ -1,1 +1,1 @@
-priny("Hope is a very important sense");
+print("Hope is a very important sense");
